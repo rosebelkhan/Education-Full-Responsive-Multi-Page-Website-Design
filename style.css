@@ -411,11 +411,6 @@ color: #f44336;
 	color: #fff;
 }
 
-.maps{
-	margin-top: 5%;
-}
-
-
 @media (max-width: 700px){
 .sub-header{
 	height: 50vh;
